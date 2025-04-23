@@ -46,24 +46,24 @@ graphql
 Copy
 Edit
 
+### 📦 Project Structure
+
+```bash
 deep-research-agent/
 │
-│
 ├── agents/
-│
 │   ├── research_agent.py      # Builds the web research agent
 │   ├── writer_agent.py        # Builds the answer-writing agent
 │
-│
 ├── app.py                     # Streamlit UI
-│
 ├── main.py                    # CLI interface
-│
 ├── graph_runner.py            # LangGraph setup and pipeline
-│
 ├── .env                       # API keys and secrets
-│
-└── requirements.txt
+└── requirements.txt           # Python dependencies
+```
+
+
+
 🧪 Technologies Used
 🛠️ LangChain
 
