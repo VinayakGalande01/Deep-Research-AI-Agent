@@ -25,22 +25,7 @@ Copy
 Edit
 python -m venv agent
 agent\Scripts\activate  # Windows
-# or
-source agent/bin/activate  # macOS/Linux
-3. Install Dependencies
-bash
-Copy
-Edit
-pip install -r requirements.txt
-4. Configure .env
-Create a .env file in the root directory:
 
-ini
-Copy
-Edit
-GROQ_API_KEY=your-groq-api-key
-TAVILY_API_KEY=your-tavily-api-key
-USER_AGENT=your-agent-name  # optional but recommended
 💻 Usage
 ▶️ Option 1: Run with Streamlit
 bash
