@@ -41,10 +41,6 @@ Edit
 python main.py
 You’ll be prompted to enter a topic or a URL. The agents will run and generate a summary.
 
-📦 Project Structure
-graphql
-Copy
-Edit
 
 ### 📦 Project Structure
 
